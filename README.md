@@ -44,11 +44,11 @@ print(U)
 ```
 
 ## Output:
-![lu decomposition]()
+![Screenshot 2023-12-23 091832](https://github.com/Sanjaikee/LU-Decomposition/assets/150231888/466be5e1-1328-40fc-ae48-b4a70974ee3a)
+![Screenshot 2023-12-23 091851](https://github.com/Sanjaikee/LU-Decomposition/assets/150231888/c8ddbeb6-21e2-4298-a067-99593410a2a9)
 
-![Screenshot 2023-12-23 121355](https://github.com/23008112/LU-Decomposition/assets/138972470/e63f5a84-f8a2-4237-8c84-abb12803e03a)
 
-![Screenshot 2023-12-23 121415](https://github.com/23008112/LU-Decomposition/assets/138972470/1263360c-f60e-4243-b736-1ace1a3a29f0)
+
 
 
 ## Result:
